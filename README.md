@@ -36,7 +36,9 @@
 </p>
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E8E8E8&height=60&section=header&text=👇%20Explore%20my%20projects%20👇&fontSize=24&fontColor=9B59B6&fontAlignY=50"/>
+  <a href="https://bryan-o-orellana.github.io">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=E8E8E8&height=60&section=header&text=👉%20CLICK%20TO%20EXPLORE%20MY%20PORTFOLIO%20👈&fontSize=24&fontColor=9B59B6&fontAlignY=50" alt="Explore my portfolio"/>
+  </a>
 </p>
 
 ## 📊 Featured Power BI Projects
