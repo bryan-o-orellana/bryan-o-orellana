@@ -79,11 +79,11 @@ My professional background combines **data analytics, business insight, and tech
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=%3E_%20CONTACT&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="Contact"/>
+  <img src="matrix-contact.svg" alt="Contact: portfolio bryan-o-orellana.github.io, LinkedIn linkedin.com/in/bryanxavez, email bryan.o.orellana@icloud.com" width="640">
 </p>
-
-- **Portfolio:** [bryan-o-orellana.github.io](https://bryan-o-orellana.github.io)
-- **LinkedIn:** [linkedin.com/in/bryanxavez](https://linkedin.com/in/bryanxavez)
-- **Email:** [bryan.o.orellana@icloud.com](mailto:bryan.o.orellana@icloud.com)
-
+<p align="center">
+  <a href="https://bryan-o-orellana.github.io">Portfolio</a> ·
+  <a href="https://linkedin.com/in/bryanxavez">LinkedIn</a> ·
+  <a href="mailto:bryan.o.orellana@icloud.com">Email</a>
+</p>
 <p align="center"><sub><i>There is no spoon.</i></sub></p>
