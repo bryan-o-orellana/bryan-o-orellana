@@ -31,13 +31,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=%3E_%20POWER%20BI&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="Power BI"/>
 </p>
 
-### [01] [Sell Out & Inventories — Intermoda](https://github.com/bryan-o-orellana/Sell_Out_and_Inventories_KKAA)
+### [Sell Out & Inventories — Intermoda](https://github.com/bryan-o-orellana/Sell_Out_and_Inventories_KKAA)
 Comprehensive analysis of sales and inventory performance for the fashion brand **PEPE**.
 
-### [02] [Summary KKAA 2025 — Intermoda](https://github.com/bryan-o-orellana/Summary_KKAA_2025_Intermoda)
+### [Summary KKAA 2025 — Intermoda](https://github.com/bryan-o-orellana/Summary_KKAA_2025_Intermoda)
 Executive dashboard presented at **Intermoda 2025**, highlighting sales trends by line and category, and inventory distribution.
 
-### [03] [Performance by Design — Intermoda](https://github.com/bryan-o-orellana/performance_by_design)
+### [Performance by Design — Intermoda](https://github.com/bryan-o-orellana/performance_by_design)
 Developed for the **Design Department**, who needed visibility into which product styles were performing well and which ones were not.
 
 ---
@@ -46,7 +46,7 @@ Developed for the **Design Department**, who needed visibility into which produc
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=%3E_%20CLAUDE%20AI&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="Claude AI"/>
 </p>
 
-### [01] [Perfect Store Evaluation — Intermoda](https://github.com/bryan-o-orellana/Tienda-Perfecta)
+### [Perfect Store Evaluation — Intermoda](https://github.com/bryan-o-orellana/Tienda-Perfecta)
 A web application designed to digitize, centralize, and simplify the monthly Perfect Store Evaluation process used by Trade Marketing teams to assess brand execution across retail stores.
 
 ---
@@ -55,7 +55,7 @@ A web application designed to digitize, centralize, and simplify the monthly Per
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=%3E_%20SQL&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="SQL"/>
 </p>
 
-### [01] [SQL Northwind Datasets](https://github.com/bryan-o-orellana/Northwind-SQL-project)
+### [SQL Northwind Datasets](https://github.com/bryan-o-orellana/Northwind-SQL-project)
 An exercise using the Northwind datasets where I explored sales insights.
 
 ---
@@ -64,14 +64,14 @@ An exercise using the Northwind datasets where I explored sales insights.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=%3E_%20FORECASTING&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="Forecasting"/>
 </p>
 
-### [01] [Sales Forecasting — Intermoda](https://github.com/bryan-o-orellana/Sales_Forecasting)
+### [Sales Forecasting — Intermoda](https://github.com/bryan-o-orellana/Sales_Forecasting)
 Real-world projection work done for Intermoda S.A. with **Forecast Pro**.
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=%3E_%20ABOUT%20ME&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="About me"/>
-</p>`
+</p>
 
 I currently work as a **Business Intelligence Analyst at Intermoda S.A.**, where I design dashboards, automate reports, and support strategic decision-making across departments.
 My professional background combines **data analytics, business insight, and technical expertise**, with a constant drive to simplify data for real impact.
