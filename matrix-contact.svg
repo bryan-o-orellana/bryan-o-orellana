@@ -11,8 +11,8 @@
 <rect x="1" y="1" width="638" height="188" rx="10" fill="#000" stroke="#00ff66" stroke-opacity=".35"/>
 <path d="M1 36h638" stroke="#0e3b1f"/>
 <circle cx="24" cy="19" r="5" fill="none" stroke="#00ff66" stroke-opacity=".6"/><circle cx="44" cy="19" r="5" fill="none" stroke="#00ff66" stroke-opacity=".6"/><circle cx="64" cy="19" r="5" fill="none" stroke="#00ff66" stroke-opacity=".6"/>
-<text class="h" x="320" y="24" text-anchor="middle">bryan@intermoda:~</text>
-<text class="l" x="24" y="72" style="animation:t 0.98s steps(14) 0.5s forwards"><tspan class="p">$ </tspan><tspan class="m">./contact.sh</tspan></text>
+<text class="h" x="320" y="24" text-anchor="middle">bryan orellana</text>
+<text class="l" x="24" y="72" style="animation:t 0.98s steps(14) 0.5s forwards"><tspan class="p">$ </tspan><tspan class="m">contact:</tspan></text>
 <text class="l" x="24" y="97" style="animation:t 1.0s steps(40) 1.88s forwards"><tspan class="p">&gt; </tspan><tspan class="o">Portfolio&#160;:&#160;bryan-o-orellana.github.io</tspan></text>
 <text class="l" x="24" y="122" style="animation:t 1.0s steps(40) 2.98s forwards"><tspan class="p">&gt; </tspan><tspan class="o">LinkedIn&#160;&#160;:&#160;linkedin.com/in/bryanxavez</tspan></text>
 <text class="l" x="24" y="147" style="animation:t 1.03s steps(41) 4.08s forwards"><tspan class="p">&gt; </tspan><tspan class="o">Email&#160;&#160;&#160;&#160;&#160;:&#160;bryan.o.orellana@icloud.com</tspan></text>
