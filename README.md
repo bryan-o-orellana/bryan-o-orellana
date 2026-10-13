@@ -87,3 +87,7 @@ My professional background combines **data analytics, business insight, and tech
   <a href="mailto:bryan.o.orellana@icloud.com">Email</a>
 </p>
 <p align="center"><sub><i>There is no spoon.</i></sub></p>
+
+
+
+<!--START_SECTION:activity-->
