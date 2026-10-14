@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=%3E_%20POWER%20BI&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="Power BI"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=POWER%20BI&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="Power BI"/>
 </p>
 
 ### [Sell Out & Inventories — Intermoda](https://github.com/bryan-o-orellana/Sell_Out_and_Inventories_KKAA)
@@ -43,7 +43,7 @@ Developed for the **Design Department**, who needed visibility into which produc
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=%3E_%20CLAUDE%20AI&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="Claude AI"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=CLAUDE%20AI&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="Claude AI"/>
 </p>
 
 ### [Perfect Store Evaluation — Intermoda](https://github.com/bryan-o-orellana/Tienda-Perfecta)
@@ -52,7 +52,7 @@ A web application designed to digitize, centralize, and simplify the monthly Per
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=%3E_%20SQL&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="SQL"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=SQL&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="SQL"/>
 </p>
 
 ### [SQL Northwind Datasets](https://github.com/bryan-o-orellana/Northwind-SQL-project)
@@ -61,7 +61,7 @@ An exercise using the Northwind datasets where I explored sales insights.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=%3E_%20FORECASTING&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="Forecasting"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=FORECASTING&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="Forecasting"/>
 </p>
 
 ### [Sales Forecasting — Intermoda](https://github.com/bryan-o-orellana/Sales_Forecasting)
@@ -70,7 +70,7 @@ Real-world projection work done for Intermoda S.A. with **Forecast Pro**.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=%3E_%20ABOUT%20ME&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="About me"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=ABOUT%20ME&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="About me"/>
 </p>
 
 I currently work as a **Business Intelligence Analyst at Intermoda S.A.**, where I design dashboards, automate reports, and support strategic decision-making across departments.
@@ -82,16 +82,20 @@ My professional background combines **data analytics, business insight, and tech
   <img src="matrix-contact.svg" alt="Contact: portfolio bryan-o-orellana.github.io, LinkedIn linkedin.com/in/bryanxavez, email bryan.o.orellana@icloud.com" width="640">
 </p>
 <p align="center">
-  <a href="https://bryan-o-orellana.github.io">Portfolio</a> ·
-  <a href="https://linkedin.com/in/bryanxavez">LinkedIn</a> ·
-  <a href="mailto:bryan.o.orellana@icloud.com">Email</a>
+  <a href="https://bryan-o-orellana.github.io"><img src="https://img.shields.io/badge/Portfolio-0A0F0A?style=for-the-badge&logo=githubpages&logoColor=00FF66" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/bryanxavez"><img src="https://img.shields.io/badge/LinkedIn-0A0F0A?style=for-the-badge&logo=linkedin&logoColor=00FF66" alt="LinkedIn"/></a>
+  <a href="mailto:bryan.o.orellana@icloud.com"><img src="https://img.shields.io/badge/Email-0A0F0A?style=for-the-badge&logo=icloud&logoColor=00FF66" alt="Email"/></a>
+  <a href="https://x.com/bryanxavez"><img src="https://img.shields.io/badge/Twitter-0A0F0A?style=for-the-badge&logo=x&logoColor=00FF66" alt="Twitter"/></a>
+  <a href="https://instagram.com/bryanxavez"><img src="https://img.shields.io/badge/Instagram-0A0F0A?style=for-the-badge&logo=instagram&logoColor=00FF66" alt="Instagram"/></a>
 </p>
+
 <p align="center"><sub><i>There is no spoon.</i></sub></p>
 
-
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1823](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1823) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=header&text=Github%20stats%20&fontSize=22&fontColor=00FF66&fontAlignY=50" alt="Github Stats"/>
+</p>
+<p align="center">
   <a href="https://github.com/bryan-o-orellana">
     <img width="390" src="https://streak-stats.demolab.com/?user=bryan-o-orellana&background=000000&border=0E3B1F&stroke=0E3B1F&ring=00FF66&fire=00FF66&currStreakNum=C9F7D4&sideNums=C9F7D4&currStreakLabel=00FF66&sideLabels=00FF66&dates=5F9C75" alt="Contribution streak"/>
   </a>
@@ -107,4 +111,3 @@ My professional background combines **data analytics, business insight, and tech
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-o-orellana&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00FF66&text_color=C9F7D4&icon_color=00FF66&bg_color=000000&langs_count=8&layout=compact&border_color=0E3B1F&size_weight=0.5&count_weight=0.5" alt="Top languages"/>
   </a>
 </p>
-<!--END_SECTION:activity-->
