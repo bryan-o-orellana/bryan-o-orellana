@@ -91,7 +91,7 @@ My professional background combines **data analytics, business insight, and tech
 
 
 <!--START_SECTION:activity-->
-<p align="center">
+1. 💪 Opened PR [#1823](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1823) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
   <a href="https://github.com/bryan-o-orellana">
     <img width="390" src="https://streak-stats.demolab.com/?user=bryan-o-orellana&background=000000&border=0E3B1F&stroke=0E3B1F&ring=00FF66&fire=00FF66&currStreakNum=C9F7D4&sideNums=C9F7D4&currStreakLabel=00FF66&sideLabels=00FF66&dates=5F9C75" alt="Contribution streak"/>
   </a>
