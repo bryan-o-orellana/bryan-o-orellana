@@ -91,3 +91,5 @@ My professional background combines **data analytics, business insight, and tech
 
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1823](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1823) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+<!--END_SECTION:activity-->
