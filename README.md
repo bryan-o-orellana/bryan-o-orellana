@@ -95,6 +95,8 @@ My professional background combines **data analytics, business insight, and tech
   <a href="https://github.com/bryan-o-orellana">
     <img width="390" src="https://streak-stats.demolab.com/?user=bryan-o-orellana&background=000000&border=0E3B1F&stroke=0E3B1F&ring=00FF66&fire=00FF66&currStreakNum=C9F7D4&sideNums=C9F7D4&currStreakLabel=00FF66&sideLabels=00FF66&dates=5F9C75" alt="Contribution streak"/>
   </a>
+  </p>
+  <p align="center">
   <a href="https://github.com/bryan-o-orellana">
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=bryan-o-orellana&show_icons=true&bg_color=000000&title_color=00FF66&text_color=C9F7D4&icon_color=00FF66&ring_color=00FF66&border_color=0E3B1F" alt="GitHub stats"/>
   </a>
