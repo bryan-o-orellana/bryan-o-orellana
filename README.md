@@ -111,6 +111,6 @@ My professional background combines **data analytics, business insight, and tech
   </a>
 </p>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1823](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1823) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-  1. 💪 Opened PR [#1823](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1823) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+1. 🗣 Commented on [#1823](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1823#issuecomment-6300336717) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. 💪 Opened PR [#1823](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1823) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
