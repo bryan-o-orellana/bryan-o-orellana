@@ -105,12 +105,12 @@ My professional background combines **data analytics, business insight, and tech
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=bryan-o-orellana&show_icons=true&bg_color=000000&title_color=00FF66&text_color=C9F7D4&icon_color=00FF66&ring_color=00FF66&border_color=0E3B1F" alt="GitHub stats"/>
   </a>
 </p>
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1823](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1823) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+<p align="center">
   <a href="https://github.com/bryan-o-orellana">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-o-orellana&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00FF66&text_color=C9F7D4&icon_color=00FF66&bg_color=000000&langs_count=8&layout=compact&border_color=0E3B1F&size_weight=0.5&count_weight=0.5" alt="Top languages"/>
   </a>
 </p>
+<!--START_SECTION:activity-->
+  1. 💪 Opened PR [#1823](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1823) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
   1. 💪 Opened PR [#1823](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1823) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
